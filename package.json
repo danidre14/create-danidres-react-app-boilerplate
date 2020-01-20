@@ -1,6 +1,6 @@
 {
   "name": "create_danidres_react_app_boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal React Boilerplate for Danidre",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,12 @@
     "boilerplate",
     "app"
   ],
-  "author": "Danidre",
+  "homepage": "https://github.com/danidre14/create-danidres-react-app-boilerplate",
+  "bugs": {
+    "url": "https://github.com/danidre14/create-danidres-react-app-boilerplate/issues",
+    "email": "danidre14@gmail.com"
+  },
+  "author": "Danidre (danidre.com)",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
