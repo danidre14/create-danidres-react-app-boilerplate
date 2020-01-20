@@ -1,6 +1,6 @@
 {
-  "name": "create_danidres_react_app_boilerplate",
-  "version": "1.0.1",
+  "name": "create-danidres-react-app-boilerplate",
+  "version": "1.0.0",
   "description": "Personal React Boilerplate for Danidre",
   "main": "index.js",
   "scripts": {
